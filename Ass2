@@ -1,0 +1,10 @@
+x='oprating'
+y='system'
+print(x)
+print(y)
+print(x+y)
+
+
+oprating
+system
+opratingsystem
