@@ -1,0 +1,12 @@
+x=input()
+l=list(x)
+c=0
+for i in l:
+    if i!='a'and i!='e' and i!='i' and i!='o' and i!='u':
+        c=c+1
+print(c)
+
+
+
+kusma
+3
